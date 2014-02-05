@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><?php echo $settings->title; ?></title>
+	<title><?php $settings->getTitle(); ?></title>
 	<?php require_once("includes/style.php"); ?>
 </head>
 <body>

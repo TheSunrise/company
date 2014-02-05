@@ -1,0 +1,10 @@
+/*
+ * Import Bootstrap
+ */
+@import "css/bootstrap.min.css";
+
+/*
+ * Import colors
+ */
+
+@import "color.css";
