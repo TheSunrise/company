@@ -8,3 +8,7 @@
  */
 
 @import "color.css";
+
+body{
+	padding-top: 20px;
+}

@@ -1,5 +1,6 @@
 <?php
-	$site = "index";
+	$site = "Home";
+	require("settings.php");
 
 	require("header.php");
 	

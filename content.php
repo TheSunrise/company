@@ -1,6 +1,6 @@
 <?php
-	switch($site){
-		case "index":
+	switch($settings->getSite()){
+		case "Home":
 			include("includes/content-main.php");
 			break;
 			
