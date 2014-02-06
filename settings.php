@@ -1,7 +1,7 @@
 <?php
 	class mySettings
 	{
-		var $company = "company";
+		var $company = "Company";
 		var $status = "newUser";
 		var $site = "index";
 
