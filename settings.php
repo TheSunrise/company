@@ -28,6 +28,10 @@
 		function getSite(){
 			return $this->site;
 		}
+		
+		function getYear(){
+			echo "2014";
+		}
 	}
 	
 	$settings = NEW mySettings("new", $site);

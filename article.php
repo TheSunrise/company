@@ -1,5 +1,5 @@
 <?php
-	$site = "Home";
+	$site = "Article";
 	require("settings.php");
 
 	require("header.php");

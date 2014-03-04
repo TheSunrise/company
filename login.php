@@ -1,10 +1,8 @@
 <?php
-	$site = "Home";
+	$site = "Login";
 	require("settings.php");
 
 	require("header.php");
-	
-	require("navigation.php");
 	
 	require("content.php");
 	
